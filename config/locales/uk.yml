@@ -487,7 +487,8 @@ uk:
         orders: "Замовлення"
         overview: "Перегляд"
         products: "Товари"
-        promotions: "А��ції"
+        promotions: "Промо-акції"
+        promotion_categories:
         properties: "Властивості"
         prototypes: "Прототипи"
         reports: "Звіти"
@@ -533,6 +534,7 @@ uk:
     are_you_sure: "Ви впевнені"
     are_you_sure_delete: "Ви впевнені, що хочете видалити цей запис?"
     associated_adjustment_closed: "Пов’язане коригування закрито, і не буде перераховано. Чи бажаєте відкрити її?"
+    at_symbol: '@'
     authorization_failure: "Помилка авторизації"
     authorized: "Авторизовано"
     auto_capture: "Автозахоплення"
@@ -782,17 +784,9 @@ uk:
     home: "Додому"
     i18n:
       available_locales: "Доступні переклади"
-      fields: "Поля"
       language: "Мова"
       localization_settings: "Налаштування локалізації"
-      only_complete: "Тільки ��авершені"
-      only_incomplete: "Тільки не завершені"
-      select_locale: "Виберіть мову"
-      show_only: "Відображати тільки"
-      store_translations:
-      supported_locales: "Мови, що підтримуються"
       this_file_language: Ukrainian
-      translations: "Переклади"
     icon: "Іконка"
     identifier: "Ідентифікатор"
     image: "Зображення"
@@ -1180,7 +1174,7 @@ uk:
     remove: "Видалити"
     rename: "Переіменувати"
     report:
-    reports: "��віти"
+    reports: "Звіти"
     resend: "Відправити повторно"
     reset_password: "Скинути мій пароль"
     response_code: "Код відповіді"

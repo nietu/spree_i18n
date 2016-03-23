@@ -42,12 +42,13 @@ ja:
       spree/order:
         checkout_complete: "注文の受け付けを完了しました"
         completed_at: "完了日時"
-        considered_risky:
+        considered_risky: "リスク"
         coupon_code: "クーポンコード"
         created_at: "注文日"
         email: "メールアドレス"
         ip_address: IPアドレス
         item_total: "合計個数"
+        name: "注文"
         number: "注文番号"
         payment_state: "支払い状態"
         shipment_state: "配送状態"
@@ -378,16 +379,17 @@ ja:
       tab:
         configuration:
         option_types:
-        orders:
+        orders: "注文"
         overview:
-        products:
+        products: "商品"
         promotions:
+        promotion_categories:
         properties:
         prototypes:
-        reports:
+        reports: "リポート"
         taxonomies:
         taxons:
-        users:
+        users: "ユーザー"
       user:
         account:
         addresses:
@@ -427,6 +429,7 @@ ja:
     are_you_sure: "これで宜しいですか?"
     are_you_sure_delete: "削除しますか?"
     associated_adjustment_closed:
+    at_symbol: '@'
     authorization_failure: "認証に失敗しました"
     authorized:
     auto_capture:
@@ -642,6 +645,7 @@ ja:
     failed_payment_attempts:
     filename: "ファイル名"
     fill_in_customer_info:
+    filter: "フィルタ"
     filter_results: "検索結果"
     finalize: "確定"
     finalized:
@@ -671,17 +675,9 @@ ja:
     home: "ホーム"
     i18n:
       available_locales:
-      fields:
       language:
       localization_settings:
-      only_complete:
-      only_incomplete:
-      select_locale:
-      show_only:
-      store_translations:
-      supported_locales:
       this_file_language: "日本語 (ja-JP)"
-      translations: "翻訳"
     icon: "アイコン"
     identifier:
     image: "画像"
@@ -772,7 +768,7 @@ ja:
     my_account: "アカウント情報"
     my_orders: "注文情報"
     name: "名称"
-    name_on_card:
+    name_on_card: "カード名義"
     name_or_sku: "品名もしくは品番"
     new: "新規"
     new_adjustment: "新規の値引き・追加請求"
@@ -874,7 +870,7 @@ ja:
         thanks:
         total:
     order_not_found:
-    order_number:
+    order_number: "注文 %{number}"
     order_processed_successfully: "注文が完了しました。"
     order_resumed:
     order_state:
@@ -921,7 +917,7 @@ ja:
       balance_due: "未支払い"
       checkout: "決算中"
       completed: "完了"
-      credit_owed: "一部未払"
+      credit_owed: "過払い額"
       failed: "失敗しました"
       paid: "支払い済み"
       pending: "支払い待ち"
@@ -990,8 +986,8 @@ ja:
         description: "最初の注文である"
         name: "最初の注文"
       item_total:
-        description: "合計個数"
-        name: "合計個数"
+        description: "商品金額合計"
+        name: "商品金額合計"
       landing_page:
         description: "お客様が特定のページを訪問済みである"
         name: "ランディングページ"
@@ -1027,7 +1023,7 @@ ja:
     quantity:
     quantity_returned: "返送された数"
     quantity_shipped: "発送された数"
-    quick_search:
+    quick_search: "検索"
     rate: "比率"
     reason: "理由"
     receive: "受信"

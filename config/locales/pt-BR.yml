@@ -456,6 +456,7 @@ pt-BR:
     are_you_sure: Tem Certeza?
     are_you_sure_delete: Tem certeza que deseja remover este registro?
     associated_adjustment_closed: O ajuste relacionado está fechado e não será recalculado. Você que deixar o ajuste em aberto?
+    at_symbol: '@'
     authorization_failure: Falha na Autorização
     authorized: Autorizado
     auto_capture: Captura automática
@@ -463,7 +464,7 @@ pt-BR:
     average_order_value: Média de valor por compra
     avs_response: Resposta do AVS
     back: Voltar
-    back_end: Voltar e
+    back_end: Back End
     back_to_payment: Voltar para lista de Pagamentos
     back_to_resource_list: "Voltar para lista de %{resource}"
     back_to_rma_reason_list:
@@ -538,10 +539,10 @@ pt-BR:
     country_based: País de Origem
     country_name: Nome
     country_names:
-      CA:
-      FRA:
-      ITA:
-      US:
+      CA: Canadá
+      FRA: França
+      ITA: Itália
+      US: Estados Unidos
     coupon: Cupom
     coupon_code: Código do Cupom
     coupon_code_already_applied: O cupom já foi adicionado ao pedido
@@ -556,25 +557,25 @@ pt-BR:
     create_a_new_account: Criar uma Nova Conta
     create_new_account: "Criar Nova Conta"
     create_new_order: Criar novo pedido
-    create_reimbursement: Criar reembolso
+    create_reimbursement: Criar restituição
     created_at: Criado
     credit: Crédito
     credit_card: Cartão de Crédito
     credit_cards: Cartões de Crédito
     credit_owed: Crédito Devedor
-    credits:
+    credits: 
     currency: Moeda
     currency_decimal_mark: Marca decimal da moeda
     currency_settings: Configurações de Moeda
     currency_symbol_position: Colocar o símbolo da moeda antes ou depois da quantia?
     currency_thousands_separator: Separador de milhares da moeda
     current: Atual
-    current_promotion_usage: Uso da promoção atual
+    current_promotion_usage: "Uso da promoção atual: %{count}"
     customer: Cliente
     customer_details: Detalhes do Cliente
     customer_details_updated: Os Detalhes do Cliente Foram Atualizados
-    customer_return:
-    customer_returns:
+    customer_return: Devolução do Cliente
+    customer_returns: Devoluções do Cliente
     customer_search: Busca de Clientes
     cut: Recortar
     cvv_response: Resposta do CVV
@@ -702,17 +703,9 @@ pt-BR:
     home: Início
     i18n:
       available_locales: Idiomas disponíveis
-      fields: Campos
       language: Idioma
       localization_settings: Configurações de idioma
-      only_complete: Apenas completas
-      only_incomplete: Apenas incompletas
-      select_locale: Selecione o idioma
-      show_only: Mostrar apenas
-      store_translations:
-      supported_locales: Idiomas suportados
       this_file_language: Português (BR)
-      translations: Traduções
     icon: "Ícone"
     identifier:
     image: Imagem
@@ -1073,25 +1066,25 @@ pt-BR:
     refunds:
     register: Registrar-se
     registration: Registro
-    reimburse:
-    reimbursed:
-    reimbursement:
+    reimburse: Restituir
+    reimbursed: Restituído
+    reimbursement: Restituição
     reimbursement_mailer:
       reimbursement_email:
         days_to_send:
-        dear_customer:
+        dear_customer: Caro cliente
         exchange_summary:
-        for:
-        instructions:
-        refund_summary:
-        subject:
-        total_refunded:
-    reimbursement_perform_failed:
-    reimbursement_status:
-    reimbursement_type:
-    reimbursement_type_override:
+        for: Para
+        instructions: Instruções
+        refund_summary: Resumo da Restituição
+        subject: Assunto
+        total_refunded: Total Restituído
+    reimbursement_perform_failed: Processo de Restituição falhou
+    reimbursement_status: Status de Restituição
+    reimbursement_type: Tipo de Restituição
+    reimbursement_type_override: Sobrescrever Tipo de Restituição
     reimbursement_types: Tipos de restituição
-    reimbursements:
+    reimbursements: Restituições
     reject: Rejeitar
     rejected: Rejeitado
     remember_me: Lembrar
@@ -1109,16 +1102,16 @@ pt-BR:
     return_authorization_reasons: Razões para autorização de devolução
     return_authorization_updated: Autorização de devolução atualizada
     return_authorizations: Autorizações de devolução
-    return_item_inventory_unit_ineligible:
-    return_item_inventory_unit_reimbursed:
-    return_item_rma_ineligible:
-    return_item_time_period_ineligible:
-    return_items:
+    return_item_inventory_unit_ineligible: Unidade de Inventório do Item Devolvido Inelegível
+    return_item_inventory_unit_reimbursed: Unidade de Inventório do Item Devolvido Reembolsado
+    return_item_rma_ineligible: RMA de Item Devolvido Inelegível
+    return_item_time_period_ineligible: Período de Item Devolvido Inelegível
+    return_items: Itens Devolvidos
     return_items_cannot_be_associated_with_multiple_orders:
-    return_number:
+    return_number: Número de Devolução
     return_quantity: Quantidade a ser devolvida
     returned: Devolvido
-    returns:
+    returns: Devoluções
     review: Revisar
     risk: Risco
     risk_analysis: Análise de Risco

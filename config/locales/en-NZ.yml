@@ -382,6 +382,7 @@ en-NZ:
         overview:
         products:
         promotions:
+        promotion_categories:
         properties:
         prototypes:
         reports:
@@ -427,6 +428,7 @@ en-NZ:
     are_you_sure: Are you sure
     are_you_sure_delete: Are you sure you want to delete this record?
     associated_adjustment_closed:
+    at_symbol: '@'
     authorization_failure: Authorisation Failure
     authorized:
     auto_capture:
@@ -671,17 +673,9 @@ en-NZ:
     home: Home
     i18n:
       available_locales:
-      fields:
       language:
       localization_settings:
-      only_complete:
-      only_incomplete:
-      select_locale:
-      show_only:
-      store_translations:
-      supported_locales:
       this_file_language: English (New Zealand)
-      translations:
     icon: Icon
     identifier:
     image: Image

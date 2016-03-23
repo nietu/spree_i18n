@@ -431,6 +431,7 @@ es-CL:
         overview: Visión general
         products: Productos
         promotions: Promociones
+        promotion_categories:
         properties: Atributos
         prototypes: Prototipos
         reports: Informes
@@ -473,6 +474,7 @@ es-CL:
     are_you_sure: "¿Estás seguro?"
     are_you_sure_delete: "¿Estás seguro de que quieres borrar este registro?"
     associated_adjustment_closed: El ajuste asociado está cerrado y no será recalculado. ¿Quieres abrirlo?
+    at_symbol: '@'
     authorization_failure: Fallo en la autorización
     authorized: Autorizado
     auto_capture: Captura automática
@@ -713,17 +715,9 @@ es-CL:
     home: Inicio
     i18n:
       available_locales: Locales Disponibles
-      fields: Campos
       language: Idioma
       localization_settings: Ajustes de Localización
-      only_complete: Sólo completas
-      only_incomplete: Sólo incompletas
-      select_locale: Seleccionar Localización
-      show_only: Sólo mostrar
-      store_translations:
-      supported_locales: Localizaciónes Soportadas
       this_file_language: Español (Chile)
-      translations: Traducciones
     icon: Icono
     image: Imagen
     images: Imágenes
@@ -868,7 +862,7 @@ es-CL:
     none: Ninguno
     none_selected: Ninguno seleccionado
     normal_amount: Valor normal
-    not: No
+    not: 'No'
     not_available: No disponible
     not_enough_stock: No hay suficiente stock en la Ubicación para completar esta transferencia
     not_found: No se encontró %{resource}
@@ -1154,7 +1148,7 @@ es-CL:
     sales_totals: Totales de ventas
     save_and_continue: Guardar y Continuar
     save_my_address: Guardar mi dirección
-    say_no: No
+    say_no: 'No'
     say_yes: Si
     scope: Alcance
     search: Buscar

@@ -386,6 +386,7 @@ nl:
         overview: Overzicht
         products: Producten
         promotions: Promoties
+        promotion_categories:
         properties: Eigenschappen
         prototypes:
         reports: Rapportages
@@ -431,6 +432,7 @@ nl:
     are_you_sure: Weet je het zeker
     are_you_sure_delete: Wilt je dit record echt verwijderen?
     associated_adjustment_closed: De bijbehorende aanpassing is gesloten, en wordt niet herberekend. Wil je de aanpassing openen?
+    at_symbol: '@'
     authorization_failure: Autorisatie mislukt
     authorized:
     auto_capture:
@@ -675,17 +677,9 @@ nl:
     home: Home
     i18n:
       available_locales: Beschikbare regio-instellingen
-      fields: Velden
       language: Taal
       localization_settings: Regio-instellingen
-      only_complete: Enkel volledige
-      only_incomplete: Enkel onvolledige
-      select_locale: Selecteer regio-instelling
-      show_only: Toon enkel
-      store_translations:
-      supported_locales: Ondersteunde regio-instellingen
       this_file_language: Nederlands (NL)
-      translations: Vertalingen
     icon: Icoon
     identifier:
     image: Afbeelding

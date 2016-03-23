@@ -338,6 +338,7 @@ vi:
         overview:
         products:
         promotions:
+        promotion_categories:
         properties:
         prototypes:
         reports:
@@ -383,6 +384,7 @@ vi:
     are_you_sure: Bạn có chắn chắn không?
     are_you_sure_delete: Bạn có chắc bạn muốn xóa hồ sơ này không?
     associated_adjustment_closed: "Điều chỉnh liên đới đã bị đóng và không thể tính lại. Bạn có muốn mở nó không?"
+    at_symbol: '@'
     authorization_failure: Không được ủy quyền truy cập
     authorized:
     auto_capture:
@@ -627,17 +629,9 @@ vi:
     home: Trang chủ
     i18n:
       available_locales:
-      fields:
       language:
       localization_settings:
-      only_complete:
-      only_incomplete:
-      select_locale:
-      show_only:
-      store_translations:
-      supported_locales:
       this_file_language: tiếng Việt (VN)
-      translations:
     icon: Biểu tượng
     identifier:
     image: Hình ảnh

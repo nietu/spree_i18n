@@ -384,6 +384,7 @@ es-MX:
         overview: Visión general
         products: Productos
         promotions: Promociones
+        promotion_categories:
         properties:
         prototypes:
         reports: Reportes
@@ -429,6 +430,7 @@ es-MX:
     are_you_sure: "¿Está seguro?"
     are_you_sure_delete: "¿Está seguro de que quiere eliminar esta entrada?"
     associated_adjustment_closed: El ajuste relacionado está cerrado, y no será recalculado. ¿Deseas abrirlo?
+    at_symbol: '@'
     authorization_failure: Fallo de autorización
     authorized:
     auto_capture:
@@ -673,17 +675,9 @@ es-MX:
     home: Inicio
     i18n:
       available_locales: Traduciones Disponibles
-      fields: Campos
       language: Idioma
       localization_settings: Ajustes de traducciones
-      only_complete: Solo completas
-      only_incomplete: Solo incompletas
-      select_locale: Escoge traducción
-      show_only: Mostrar solo
-      store_translations:
-      supported_locales: Traducciones soportadas
       this_file_language:
-      translations: Traducciones
     icon: Icono
     identifier:
     image: Imagen
@@ -1030,7 +1024,7 @@ es-MX:
     quantity: Cantidad
     quantity_returned: Cantidad devuelta
     quantity_shipped: Cantidad enviada
-    quick_search:
+    quick_search: Búsqueda rápida
     rate: Tarifa
     reason: Razón
     receive: recibir

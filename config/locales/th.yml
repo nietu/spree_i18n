@@ -378,6 +378,7 @@ th:
         overview: "ภาพรวม"
         products: "สินค้า"
         promotions: "โปรโมชั่น"
+        promotion_categories:
         properties:
         prototypes:
         reports: "รายงาน"
@@ -423,6 +424,7 @@ th:
     are_you_sure: "แน่ใจหรือไม่"
     are_you_sure_delete: "คุณแน่ใจที่จะลบข้อมูลนี้หรือไม่?"
     associated_adjustment_closed: "รายการที่เกี่ยวข้อกับรายการปรับปรุงนั้นได้ปิดแล้ว และจะไม่นำมาคำนวนใหม่ คุณต้องการที่จะเปิดหรือไม่?"
+    at_symbol: '@'
     authorization_failure: "การขออนุญาต ไม่สำเร็จ"
     authorized:
     auto_capture:
@@ -667,17 +669,9 @@ th:
     home: "หน้าแรก"
     i18n:
       available_locales: "ภาษาที่รองรับ"
-      fields: Fields
       language: "ภาษา"
       localization_settings: "ตั้งค่าภาษา"
-      only_complete: "เฉพาะที่สมบูรณ์"
-      only_incomplete: "เฉพาะที่ไม่สมบูรณ์"
-      select_locale: "เลือกภาษา"
-      show_only: "แสดงเฉพาะ"
-      store_translations:
-      supported_locales: "ภาษาที่รองรับ"
       this_file_language: "ภาษาไทย (TH)"
-      translations: "แปล"
     icon: "ไอค่อน"
     identifier:
     image: "รูปภาพ"

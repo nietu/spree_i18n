@@ -371,6 +371,7 @@ fa:
         products: محصولات
         promotions: فروش ویژه
         properties: ویژگی ها
+        promotion_categories:
         prototypes: نمونه های اولیه
         reports: گزارشات
         users: کاربران
@@ -407,6 +408,7 @@ fa:
     attachment_path: Attachments Path
     attachment_styles: Paperclip Styles
     attachment_url:
+    at_symbol: '@'
     authorization_failure: خرابی در صدور مجوز
     available_on: موجود است در
     back: برگشت
@@ -627,17 +629,9 @@ fa:
     home: صفحه اصلی
     i18n:
       available_locales:
-      fields:
       language:
       localization_settings:
-      only_complete:
-      only_incomplete:
-      select_locale:
-      show_only:
-      store_translations:
-      supported_locales:
       this_file_language: فارسی(fa)
-      translations:
     icon: آیکون
     image: تصویر
     image_settings: Image Settings

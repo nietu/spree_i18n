@@ -391,7 +391,8 @@ sk:
         orders: "Objednávky"
         overview: "Prahľad"
         products: "Produkty"
-        promotions: 
+        promotions:
+        promotion_categories:
         properties: "Vlastnosti"
         prototypes: "Prototypy"
         reports: "Výkazy"
@@ -437,8 +438,9 @@ sk:
     are_you_sure: "Ste si istí?"
     are_you_sure_delete: "Ste si istí, že chcete zmazať tento záznam?"
     associated_adjustment_closed:
+    at_symbol: '@'
     authorization_failure: "Chyba pri autorizácii"
-    authorized: 
+    authorized:
     auto_capture:
     available_on: Prístupný dňa
     average_order_value: "Priemerná hodnota objednávky"
@@ -577,7 +579,7 @@ sk:
     date_range: "Obdobie"
     default:
     default_refund_amount:
-    default_tax: 
+    default_tax:
     default_tax_zone:
     delete: "Zmazať"
     deleted_variants_present:
@@ -682,17 +684,9 @@ sk:
     home: Domov
     i18n:
       available_locales: "Dostupné národné prostredia"
-      fields: "Polia"
       language: "Jazyk"
       localization_settings: "Nastavenia národného prostredia"
-      only_complete: "Len kompletné"
-      only_incomplete: "Len nekompletné"
-      select_locale: "Zvoliť národné prostredie"
-      show_only: "Len zobraziť"
-      store_translations:
-      supported_locales: "Podporované národné prostredia"
       this_file_language: Slovenčina
-      translations: "Praklady"
     icon: "Ikona"
     identifier:
     image: Obrázok

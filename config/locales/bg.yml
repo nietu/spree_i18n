@@ -378,6 +378,7 @@ bg:
         overview: "Прегледай"
         products: "Продукти"
         promotions: "Промоции"
+        promotion_categories:
         properties:
         prototypes:
         reports: "Доклади"
@@ -423,6 +424,7 @@ bg:
     are_you_sure: "Сигурни ли сте"
     are_you_sure_delete: "Сигурни ли сте, че искате да изтриете този запис?"
     associated_adjustment_closed:
+    at_symbol: '@'
     authorization_failure:
     authorized:
     auto_capture:
@@ -667,17 +669,9 @@ bg:
     home: "Дом"
     i18n:
       available_locales: "Достъпни места"
-      fields: "Полета"
       language: "Език"
       localization_settings: "Настройки за локализация"
-      only_complete: "Само завършени"
-      only_incomplete: "Само незавършени."
-      select_locale: "Избери място"
-      show_only: "Покажи само"
-      store_translations:
-      supported_locales: "Подържани места"
       this_file_language: "Български (БГ)"
-      translations: "Преводи"
     icon: "Икона"
     identifier:
     image: "Образ"

@@ -382,6 +382,7 @@ nb:
         overview: Oversikt
         products: Produkter
         promotions: Kampanjer
+        promotion_categories:
         properties:
         prototypes:
         reports: Rapporter
@@ -427,6 +428,7 @@ nb:
     are_you_sure: Er du sikker
     are_you_sure_delete: Er du sikker på at du vil slette denne?
     associated_adjustment_closed:
+    at_symbol: '@'
     authorization_failure: Autorisering feilet
     authorized:
     auto_capture:
@@ -672,16 +674,9 @@ nb:
     home: Hjem
     i18n:
       available_locales:
-      fields:
       language:
       localization_settings:
-      only_complete:
-      only_incomplete:
-      select_locale:
-      show_only:
-      supported_locales:
       this_file_language: Norsk
-      translations:
     icon: Ikon
     identifier:
     image: Bilde
